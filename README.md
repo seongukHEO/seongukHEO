@@ -2,6 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongukHeo&fontSize=90" />
 
+<div align="center">
+	<img src="https://img.shields.io/badge/Android-#34A853?style=flat&logo=Android&logoColor=#FFCA28" />
+	<img src="https://img.shields.io/badge/Firebase-#FFCA28?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+</div>
+
 <!--
 **seongukHEO/seongukHEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
