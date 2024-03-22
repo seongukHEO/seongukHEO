@@ -10,6 +10,10 @@
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongukHEO&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=seongukHEO&show_icons=true">
+
+
 <!--
 **seongukHEO/seongukHEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
