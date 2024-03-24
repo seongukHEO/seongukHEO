@@ -1,6 +1,6 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongukGithub&fontSize=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=093040&height=200&section=header&text=SeongukGithub&fontSize=55" />
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=Android&logoColor=white" />
