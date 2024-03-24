@@ -10,9 +10,6 @@
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongukHEO&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=seongukHEO&show_icons=true">
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongukHEO&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
