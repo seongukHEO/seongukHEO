@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=093040&height=200&section=header&text=SeongukGithub&fontSize=55" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6180&random=false&width=435&lines=Hi!+Thank+you+for+visiting+my+GitHub)](https://git.io/typing-svg)
+
 <div align="center">
 	<img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=Android&logoColor=white" />
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=HTML5&logoColor=white" />
