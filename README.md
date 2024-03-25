@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=093040&height=200&section=header&text=Welcome!&desc=This%20is%20Seonguk's%20Github&fontSize=90&descSize=30&fontAlignY=40" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6180&random=false&width=435&lines=Hi!+Thank+you+for+visiting+my+Github.%20&)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6180&center=true&random=false&width=435&lines=Hello!+Thank+you+for+visiting+my+Github)](https://git.io/typing-svg)
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=Android&logoColor=white" />
