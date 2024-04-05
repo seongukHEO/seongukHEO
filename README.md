@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6180&center=true&vCenter=true&random=false&width=435&lines=Hi!+Thank+you+for+visiting+my+Github)](https://git.io/typing-svg)
 
+##📚Tech Stack
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=Android&logoColor=white" />
