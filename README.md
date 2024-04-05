@@ -4,9 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6180&center=true&vCenter=true&random=false&width=435&lines=Hi!+Thank+you+for+visiting+my+Github)](https://git.io/typing-svg)
 
-##📚Tech Stack
+<div align="center">
+<br>
+## 📚Tech Stack
 
 <div align="center">
+
+ 
 	<img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=Android&logoColor=white" />
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=CSS3&logoColor=white" />
