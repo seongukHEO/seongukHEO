@@ -21,6 +21,8 @@
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=CSS3&logoColor=white" />
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=CSS3&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=CSS3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JetpackCompose-4285F4?style=flat&logo=TypeScript&logoColor=white"/>
+
 </div>
 
 <br><br>
