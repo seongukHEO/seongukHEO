@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
    
 
 </div>
