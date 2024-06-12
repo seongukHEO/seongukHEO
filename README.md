@@ -18,7 +18,6 @@
 <div align="center">
     <img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=Android&logoColor=white" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" />
