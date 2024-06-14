@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" />
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white"/>
-    
+    <img src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white" />    
 
    
 
