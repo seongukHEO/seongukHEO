@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
 </div>
 
 <br>
@@ -30,6 +32,8 @@
 
 <br>
 
+
+
 <!-- 📊 GitHub Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=seongukHEO&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
@@ -39,7 +43,7 @@
 
 <!-- 🐍 Snake 커밋 애니메이션 -->
 <div align="center">
-  <h2>🐍 Snake 커밋 애니메이션</h2>
+  <h2>🐍 Snake 커밋</h2>
   <img src="https://raw.githubusercontent.com/seongukHEO/seongukHEO/output/github-contribution-grid-snake.svg" />
 </div>
 
