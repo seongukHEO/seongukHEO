@@ -2,11 +2,14 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 매일 자정에 실행
+    - cron: "0 0 * * *"
   push:
     branches:
-      - main  # 또는 'master' 사용 중이면 변경
+      - main
   workflow_dispatch:
+
+permissions:
+  contents: write  # ✅ 여기 추가 필수
 
 jobs:
   build:
