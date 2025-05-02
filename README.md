@@ -1,13 +1,15 @@
 
 <!-- 👋 상단 웨이브 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF614C&height=200&section=header&text=Welcome!&desc=This%20is%20Seonguk's%20Github&fontSize=90&descSize=30&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A18CD1&height=200&section=header&text=Welcome!&desc=This%20is%20Seonguk's%20Github&fontSize=90&descSize=30&fontAlignY=40" />
+
 
 <!-- ⌨️ 타이핑 애니메이션 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF614C&center=true&vCenter=true&random=false&width=435&lines=Hi!+Thank+you+for+visiting+my+Github" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E44AD&center=true&vCenter=true&random=false&width=435&lines=Hi!+Thank+you+for+visiting+my+Github" alt="Typing SVG">
   </a>
 </div>
+
 
 <!-- 🧰 기술 스택 -->
 <div align="center">
