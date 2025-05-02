@@ -33,6 +33,32 @@
 <br>
 
 
+<!-- 🚀 Projects -->
+<div align="center">
+  <h2>🚀 Projects</h2>
+
+  <p>
+    <a href="https://apps.apple.com/kr/app/trigger/id6680201260" target="_blank"><strong>Trigger</strong></a> – ADHD 환자를 위한 트리거 기반 플래너 앱
+  </p>
+
+  <p>
+    <a href="https://play.google.com/store/apps/details?id=com.founder.founderPartner" target="_blank"><strong>FOUNDER</strong></a> – AI로 원단을 검색하고 업체를 매칭 시켜주는 패션 플랫폼
+  </p>
+</div>
+
+
+<br>
+
+<!-- 🏆 Awards -->
+<div align="center">
+  <h2>🏆 Awards</h2>
+
+  <p>
+    <strong>사이드임팩트 Spark Track 수상</strong> – 2024
+  </p>
+</div>
+
+<br>
 
 <!-- 📊 GitHub Activity Graph -->
 <div align="center">
