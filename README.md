@@ -60,8 +60,11 @@
 
   <p>
     <strong>사이드임팩트 Spark Track 수상</strong> – 2024
+  </p>
+  <p>
     <strong>관악 S벨리 창업 아이디어 발표 대회 3등</strong> – 2025
   </p>
+
 </div>
 
 <br>
