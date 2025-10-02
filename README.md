@@ -45,6 +45,10 @@
   <p>
     <a href="https://play.google.com/store/apps/details?id=com.founder.founderPartner" target="_blank"><strong>FOUNDER</strong></a> – AI로 원단을 검색하고 업체를 매칭 시켜주는 패션 플랫폼
   </p>
+
+   <p>
+    <a href="https://apps.apple.com/kr/app/%EA%B3%A8%EB%93%9C%EB%B0%94%EB%A0%90/id6749441871" target="_blank"><strong>GoldBarrel</strong></a> – 주류 숙성인들을 위한 숙성 관리 어플
+  </p>
 </div>
 
 
@@ -56,6 +60,7 @@
 
   <p>
     <strong>사이드임팩트 Spark Track 수상</strong> – 2024
+    <strong>관악 S벨리 창업 아이디어 발표 대회 3등</strong> – 2025
   </p>
 </div>
 
