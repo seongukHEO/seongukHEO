@@ -43,7 +43,7 @@
   </p>
 
   <p>
-    <a href="https://play.google.com/store/apps/details?id=com.founder.founderPartner" target="_blank"><strong>Weavo</strong></a> – AI로 원단을 검색하고 업체를 매칭 시켜주는 패션 플랫폼
+    <a href="https://litt.ly/weavo_official" target="_blank"><strong>Weavo</strong></a> – AI로 원단을 검색하고 업체를 매칭 시켜주는 패션 플랫폼
   </p>
 
    <p>
