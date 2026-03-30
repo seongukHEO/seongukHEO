@@ -1,4 +1,3 @@
-
 <!-- 👋 상단 웨이브 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A18CD1&height=200&section=header&text=Welcome!&desc=This%20is%20Seonguk's%20Github&fontSize=90&descSize=30&fontAlignY=40" />
 
@@ -6,7 +5,7 @@
 <!-- ⌨️ 타이핑 애니메이션 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E44AD&center=true&vCenter=true&random=false&width=435&lines=Hi!+Thank+you+for+visiting+my+Github" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E44AD&center=true&vCenter=true&random=false&width=500&lines=Hi!+Thank+you+for+visiting+my+Github;I+build+apps+that+solve+real+problems" alt="Typing SVG">
   </a>
 </div>
 
@@ -23,7 +22,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 </div>
 
-
 <br>
 
 <!-- 📈 GitHub Stats -->
@@ -35,24 +33,61 @@
 
 <br>
 
-
 <!-- 🚀 Projects -->
 <div align="center">
   <h2>🚀 Projects</h2>
 
   <p>
-    <a href="https://apps.apple.com/kr/app/trigger/id6680201260" target="_blank"><strong>Trigger</strong></a> – ADHD 환자를 위한 트리거 기반 플래너 앱
+    <a href="https://apps.apple.com/kr/app/trigger/id6680201260" target="_blank"><strong>Trigger</strong></a><br/>
+    ADHD 환자를 위한 트리거 기반 플래너 앱
   </p>
 
   <p>
-    <a href="https://litt.ly/weavo_official" target="_blank"><strong>Weavo</strong></a> – AI로 원단을 검색하고 업체를 매칭 시켜주는 패션 플랫폼
+    <a href="https://litt.ly/weavo_official" target="_blank"><strong>Weavo</strong></a><br/>
+    AI로 원단을 검색하고 업체를 매칭시켜주는 패션 플랫폼
   </p>
 
-   <p>
-    <a href="https://apps.apple.com/kr/app/%EA%B3%A8%EB%93%9C%EB%B0%94%EB%A0%90/id6749441871" target="_blank"><strong>GoldBarrel</strong></a> – 주류 숙성인들을 위한 숙성 관리 어플
+  <p>
+    <a href="https://apps.apple.com/kr/app/%EA%B3%A8%EB%93%9C%EB%B0%94%EB%A0%90/id6749441871" target="_blank"><strong>GoldBarrel</strong></a><br/>
+    주류 숙성인들을 위한 숙성 관리 앱
   </p>
 </div>
 
+<br>
+
+<!-- 🌟 Product Impact -->
+<div align="center">
+  <h2>🌟 Product Impact</h2>
+
+  <img src="https://img.shields.io/badge/Weavo-2,300%2B%20Users-8E44AD?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weavo-MAU%201,000%2B-6C5CE7?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoldBarrel-1,500%2B%20Users-D4A017?style=for-the-badge&logo=apple&logoColor=white" />
+
+  <br/><br/>
+
+  <table>
+    <tr>
+      <td align="center" width="320">
+        <h3>Weavo</h3>
+        <p>
+          AI 기반 원단 검색 및 업체 매칭 플랫폼
+          <br/>
+          <strong>누적 사용자 약 2,300명</strong>
+          <br/>
+          <strong>MAU 약 1,000명</strong>
+        </p>
+      </td>
+      <td align="center" width="320">
+        <h3>GoldBarrel</h3>
+        <p>
+          주류 숙성인을 위한 숙성 관리 앱
+          <br/>
+          <strong>누적 사용자 약 1,500명</strong>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
@@ -63,15 +98,15 @@
   <p>
     <strong>사이드임팩트 Spark Track 수상</strong> – 2024
   </p>
-    <p>
+  <p>
     <strong>강동 청년해냄센터 입주</strong> – 2025
   </p>
   <p>
-    <strong>관악 S벨리 창업 아이디어 발표 대회 수상</strong> – 2025
-  </p><p>
+    <strong>관악 S밸리 창업 아이디어 발표 대회 수상</strong> – 2025
+  </p>
+  <p>
     <strong>강원 청년창업사관학교 16기 입교</strong> – 2026
   </p>
-
 </div>
 
 <br>
@@ -88,6 +123,3 @@
   <h2>🐍 Snake 커밋</h2>
   <img src="https://raw.githubusercontent.com/seongukHEO/seongukHEO/output/github-contribution-grid-snake.svg" />
 </div>
-
-
-
