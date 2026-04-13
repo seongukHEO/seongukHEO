@@ -43,7 +43,7 @@
   </p>
 
   <p>
-    <a href="https://litt.ly/weavo_official" target="_blank"><strong>Weavo</strong></a><br/>
+    <a href="https://weavo.co.kr/" target="_blank"><strong>Weavo</strong></a><br/>
     AI로 원단을 검색하고 업체를 매칭시켜주는 패션 플랫폼
   </p>
 
@@ -59,8 +59,8 @@
 <div align="center">
   <h2>🌟 Product Impact</h2>
 
-  <img src="https://img.shields.io/badge/Weavo-2,300%2B%20Users-8E44AD?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Weavo-MAU%201,000%2B-6C5CE7?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weavo-2,600%2B%20Users-8E44AD?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weavo-MAU%201,400%2B-6C5CE7?style=for-the-badge&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/GoldBarrel-1,500%2B%20Users-D4A017?style=for-the-badge&logo=apple&logoColor=white" />
 
   <br/><br/>
@@ -72,9 +72,9 @@
         <p>
           AI 기반 원단 검색 및 업체 매칭 플랫폼
           <br/>
-          <strong>누적 사용자 약 2,300명</strong>
+          <strong>누적 사용자 약 2,800명</strong>
           <br/>
-          <strong>MAU 약 1,000명</strong>
+          <strong>MAU 약 1,400명</strong>
         </p>
       </td>
       <td align="center" width="320">
