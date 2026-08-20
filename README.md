@@ -59,8 +59,8 @@
 <div align="center">
   <h2>🌟 Product Impact</h2>
 
-  <img src="https://img.shields.io/badge/Weavo-7,100%2B%20Users-8E44AD?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Weavo-MAU%203,500%2B-6C5CE7?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weavo-8,800%2B%20Users-8E44AD?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weavo-MAU%204,200%2B-6C5CE7?style=for-the-badge&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/GoldBarrel-2,500%2B%20Users-D4A017?style=for-the-badge&logo=apple&logoColor=white" />
 
   <br/><br/>
@@ -72,9 +72,9 @@
         <p>
           AI 기반 원단 검색 및 업체 매칭 플랫폼
           <br/>
-          <strong>누적 사용자 약 7,100명</strong>
+          <strong>누적 사용자 약 8,800명</strong>
           <br/>
-          <strong>MAU 약 3,500명</strong>
+          <strong>MAU 약 4,200명</strong>
         </p>
       </td>
       <td align="center" width="320">
